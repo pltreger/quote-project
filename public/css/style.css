@@ -1,0 +1,15 @@
+#quote {
+    text-align: center;
+}
+#author {
+    text-align: center;
+    color : grey;
+    font-style: italic;
+}
+
+#imageBox {
+    width: 600px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
